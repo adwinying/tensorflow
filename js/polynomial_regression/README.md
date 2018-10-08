@@ -1,13 +1,13 @@
 # Polynomial Regression
 
-Producing a 3rd-order polynomial equation that is the best fit line for all the points on the canvas.
+This project will produce a 3rd-order polynomial equation that is the best fit line for all the points on the canvas.
 
 ## Libraries used
 
 - TensorFlow.js
 - p5.js
 
-## Pre-requisites
+## Prerequisites
 - A browser
 - `npm` (Optional)
 
